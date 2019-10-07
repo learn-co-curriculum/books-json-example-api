@@ -13,7 +13,7 @@
     {
       "title": "The Colour of Magic",
       "publish-year": "1983",
-      "img_url": "https://en.wikipedia.org/wiki/The_Colour_of_Magic#/media/File:The_Colour_of_Magic_(cover_art).jpg",
+      "img_url": "https://upload.wikimedia.org/wikipedia/en/4/4d/The_Colour_of_Magic_%28cover_art%29.jpg",
       "author-id": [
         "0712"
       ] 
@@ -21,7 +21,7 @@
     {
       "title": "Good Omens",
       "publish-year": "1990",
-      "img_url": "https://en.wikipedia.org/wiki/Good_Omens#/media/File:Goodomenscover.jpg",
+      "img_url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Goodomenscover.jpg",
       "author-id": [
         "0712", 
         "9123"
@@ -30,7 +30,7 @@
     {
       "title": "Coraline",
       "publish-year": "2002",
-      "img_url": "https://en.wikipedia.org/wiki/Coraline#/media/File:Coraline.jpg",
+      "img_url": "https://upload.wikimedia.org/wikipedia/en/6/61/Coraline.jpg",
       "author-id": [
         "9123"
       ]
