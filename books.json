@@ -1,0 +1,36 @@
+{
+  "authors": [
+    {
+      "name": "Terry Pratchett",
+      "id": "0712"
+    },
+    {
+      "name": "Neil Gaiman",
+      "id": "9123"
+    }
+  ],
+  "books": [
+    {
+      "name": "The Colour of Magic",
+      "publish-year": "1983",
+      "author-id": [
+        "0712"
+      ] 
+    },
+    {
+      "name": "Good Omens",
+      "publish-year": "1990",
+      "author-id": [
+        "0712", 
+        "9123"
+      ]
+    },
+    {
+      "name": "Coraline",
+      "publish-year": "2002",
+      "author-id": [
+        "9123"
+      ]
+    }
+  ]
+}
