@@ -11,23 +11,26 @@
   ],
   "books": [
     {
-      "name": "The Colour of Magic",
+      "title": "The Colour of Magic",
       "publish-year": "1983",
+      "img_url": "https://en.wikipedia.org/wiki/The_Colour_of_Magic#/media/File:The_Colour_of_Magic_(cover_art).jpg",
       "author-id": [
         "0712"
       ] 
     },
     {
-      "name": "Good Omens",
+      "title": "Good Omens",
       "publish-year": "1990",
+      "img_url": "https://en.wikipedia.org/wiki/Good_Omens#/media/File:Goodomenscover.jpg",
       "author-id": [
         "0712", 
         "9123"
       ]
     },
     {
-      "name": "Coraline",
+      "title": "Coraline",
       "publish-year": "2002",
+      "img_url": "https://en.wikipedia.org/wiki/Coraline#/media/File:Coraline.jpg",
       "author-id": [
         "9123"
       ]
